@@ -147,7 +147,7 @@ def results(align_x, align_y):
                 mov = mov + leftWardsArrow
 
 
-    print 'Score = ' score
-    print 'Alingn X =  ' align_x
-    print 'Directions =' mov
-    print 'Alingn X   =' align_y
+    print 'Score = ', score
+    print 'Alingn X   =', align_x
+    print 'Directions =', mov
+    print 'Alingn X   =', align_y
